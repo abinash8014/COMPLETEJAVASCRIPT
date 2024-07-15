@@ -88,5 +88,6 @@
 //     status : "student" , 
 //     education_center :"GIET" ,
 // };
-// console.log(profile);
+// console.log(typeof profile);
 // console.log(profile.posts);
+// console.log(typeof profile.username);
